@@ -9,8 +9,6 @@ Poor mental health will not only impact your body's ability to make healthy deci
 but it can also increase your risk of chronic diseases like heart disease and other health complications like obesity, weakened immune system, and more.
 
 ***About The Project***
-This project offers multiple activities in form of audio & visuals which will help lighten ones mood and spreads positivity
-By Now the projects gracphical interface is ready but its not functional.
-The project has one html file - index.html & one css file sytle.css.
-The javascript part in progess & will soon be uploaded.
+This project suggests multiple activities & helps lighten ones mood and spreads positivity.
+The project has 5 html files- index.html, about.html, act.html, contact.html, photo.html & one css file sytle.css.
 The Moto of this project is to spread awareness around mental health and happiness.
